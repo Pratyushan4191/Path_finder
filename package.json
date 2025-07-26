@@ -2,7 +2,7 @@
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Pratyushan4191.github.io/pathfinder",
+  "homepage": "https://Pratyushan4191.github.io/Path_finder/",
   "type": "module",
   "scripts": {
     "dev": "vite",
